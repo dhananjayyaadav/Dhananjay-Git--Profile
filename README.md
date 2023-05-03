@@ -1,7 +1,7 @@
 # DhananjayYadav
-<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
+<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/dhananjayyaadav/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Compputer+ScienceStudent;I'm+an+Software Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+AI+Learning+Enthusiast"/>
 </div>
 <br />
 <div>
@@ -77,13 +77,7 @@
 <br />
 
 <div>
-<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
-  <img align="left" alt="Spotify Now Playing" src="https://spotify-git-master.sagnikghoshcr7.vercel.app/api/spotify" />
-</a>
-</div>
-
-<div>
-  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+  <img align="left" alt="GIF" src="https://github.com/dhananjayyaadav/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
 
 <br />
@@ -107,8 +101,8 @@
 <!-- <p align="center">
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
 <img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" /> -->
-<img align="left" height="180" src="https://readme-stats.clckblog.space/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
-<img align="left" height="180" width="230" src="https://readme-stats.clckblog.space/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
+<img align="left" height="180" src="https://readme-stats.clckblog.space/api?username=dhananjayyaadav&theme=onedark" alt="dhananjayyaadav"/> 
+<img align="left" height="180" width="230" src="https://readme-stats.clckblog.space/api/top-langs/?username=dhananjayyaadav&hide=css&theme=nord" alt="dhananjayyaadav" />
 <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 <!-- <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> -->
 </p>
@@ -135,11 +129,11 @@
 <!--   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />
+  <img src="https://img.shields.io/badge/-Web 3.O-black?style=for-the-badge&logo=Web 3.O&logoColor=007afb" />
   <br/>
 <!--   <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Solidity-E34F26?style=for-the-badge&logo=Solidity&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
