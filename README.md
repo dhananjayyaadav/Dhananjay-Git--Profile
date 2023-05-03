@@ -39,6 +39,23 @@
 <br />
 <br />
 <br />
+<div>
+<a href="https://leetcode.com/dhananjayyaadav/">
+  <img align="left" alt="Dhananjay's Leetcode" height="40px" width="35px" src="https://github.com/dhananjayyaadav/images/blob/master/LeetCode_logo.png" />
+</a>
+<a href="https://www.hackerrank.com/dhananjayyaadav?hr_r=1/">
+  <img align="left" alt="Dhananjay's HackerRank" height="46px" width="43px" src="https://www.hackerrank.com/dhananjayyaadav?hr_r=1/images/blob/master/HackerRank.png" />
+</a>
+<a href="https://www.codechef.com/users/dhananjayyadav/">
+  <img align="left" alt="Dhananjay's CodeChef" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeChef%20Logo.png" />
+</a>
+<a href="https://codeforces.com/profile/dhananjayyadav/">
+  <img align="left" alt="Dhananjay's CodeForces" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeForces%20Logo.png" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/dhananjayyaadav/practice/">
+  <img align="left" alt="Dhananjay's GeeksforGeeks" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/GeeksforGeeks%20logo.png" />
+</a>
+</div>
 
 <div>
 <a href="https://leetcode.com/sagnikghoshcr7/">
