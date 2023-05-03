@@ -125,7 +125,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/OS-Windows%2020.10%10LTS-informational?style=for-the-badge&logo=Window&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OS-Windows%2020.20%20LTS-informational?style=for-the-badge&logo=Window&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
