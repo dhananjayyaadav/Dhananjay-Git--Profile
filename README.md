@@ -1,7 +1,7 @@
 # DhananjayYadav
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/dhananjayyaadav/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Compputer+Science+Student;I'm+an+Software+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+AI+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Computer+Science+Student;I'm+an+Software+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+AI+Enthusiast"/>
 </div>
 <br />
 <div>
@@ -52,7 +52,7 @@
   <img align="left" alt="Dhananjay's CodeChef" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeChef%20Logo.png" />
 </a>
 <a href="https://codeforces.com/profile/dhananjayyadav/">
-  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeForces%20Logo.png" />
+  <img align="left" alt="Dhananjay's CodeForces" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeForces%20Logo.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/dhananjayyaadav/practice/">
   <img align="left" alt="Dhananjay's GeeksforGeeks" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/GeeksforGeeks%20logo.png" />
@@ -87,7 +87,7 @@
 <br />
 <!-- <p align="center">
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=dhananjayyaadav&theme=onedark" alt="dhananjayyaadav"/> 
-<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="dhananjayyaadav" /> -->
+<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayyaadav&hide=css&theme=nord" alt="dhananjayyaadav" /> -->
 <img align="left" height="180" src="https://readme-stats.clckblog.space/api?username=dhananjayyaadav&theme=onedark" alt="dhananjayyaadav"/> 
 <img align="left" height="180" width="230" src="https://readme-stats.clckblog.space/api/top-langs/?username=dhananjayyaadav&hide=css&theme=nord" alt="dhananjayyaadav" />
 <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
