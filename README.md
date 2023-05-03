@@ -64,7 +64,7 @@
 <br />
 
 <div>
-  <img align="left" alt="GIF" src="https://github.com/dhananjayyaadav/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
 
 <br />
