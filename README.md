@@ -59,12 +59,6 @@
 <a href="https://auth.geeksforgeeks.org/user/sagnikghoshcr7/practice/">
   <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
 </a>
-<a href="https://cssbattle.dev/player/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CSSBattle" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CSSBattle.png" />
-</a>
-<a href="https://www.codewars.com/users/sagnikghoshcr7">
-  <img align="left" width="350px" alt="Sagnik's CodeWars" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
-</a>
 </div>
 <br />
 <br />
