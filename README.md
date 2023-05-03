@@ -19,7 +19,7 @@
   </a>
   <a href="https://twitter.com/dhananjayyaadav">
   <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
-  </a>
+</a>
   <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
   </p>
 </div>
@@ -86,8 +86,8 @@
 <br />
 <br />
 <!-- <p align="center">
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
-<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" /> -->
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=dhananjayyaadav&theme=onedark" alt="dhananjayyaadav"/> 
+<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="dhananjayyaadav" /> -->
 <img align="left" height="180" src="https://readme-stats.clckblog.space/api?username=dhananjayyaadav&theme=onedark" alt="dhananjayyaadav"/> 
 <img align="left" height="180" width="230" src="https://readme-stats.clckblog.space/api/top-langs/?username=dhananjayyaadav&hide=css&theme=nord" alt="dhananjayyaadav" />
 <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
