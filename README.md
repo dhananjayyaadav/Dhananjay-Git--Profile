@@ -41,23 +41,31 @@
 <br />
 
 <div>
-<a href="https://leetcode.com/dhananjayyaadav/">
-  <img align="left" alt="Dhananjay's Leetcode" height="40px" width="35px" src="https://github.com/dhananjayyaadav/images/blob/master/LeetCode_logo.png" />
+<a href="https://leetcode.com/sagnikghoshcr7/">
+  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
 </a>
-<a href="https://www.hackerrank.com/dhananjayyaadav?hr_r=1/">
-  <img align="left" alt="Dhananjay's HackerRank" height="46px" width="43px" src="https://www.hackerrank.com/dhananjayyaadav?hr_r=1/images/blob/master/HackerRank.png" />
+<a href="https://www.hackerrank.com/sagnikghoshmand1/">
+  <img align="left" alt="Sagnik's HackerRank" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.png" />
 </a>
-<a href="https://www.codechef.com/users/dhananjayyadav/">
-  <img align="left" alt="Dhananjay's CodeChef" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeChef%20Logo.png" />
+<a href="https://www.codechef.com/users/sagnikghoshcr7/">
+  <img align="left" alt="Sagnik's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
 </a>
-<a href="https://codeforces.com/profile/dhananjayyadav/">
-  <img align="left" alt="Dhananjay's CodeForces" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeForces%20Logo.png" />
+<a href="https://codeforces.com/profile/sagnikghoshcr7/">
+  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.png" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/dhananjayyaadav/practice/">
-  <img align="left" alt="Dhananjay's GeeksforGeeks" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/GeeksforGeeks%20logo.png" />
+<a href="https://app.codesignal.com/profile/sagnikghoshcr7/">
+  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/sagnikghoshcr7/practice/">
+  <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
+</a>
+<a href="https://cssbattle.dev/player/sagnikghoshcr7/">
+  <img align="left" alt="Sagnik's CSSBattle" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CSSBattle.png" />
+</a>
+<a href="https://www.codewars.com/users/sagnikghoshcr7">
+  <img align="left" width="350px" alt="Sagnik's CodeWars" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
 </a>
 </div>
-
 <br />
 <br />
 <br />
