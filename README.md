@@ -41,40 +41,22 @@
 <br />
 <div>
 <a href="https://leetcode.com/dhananjayyaadav/">
-  <img align="left" alt="Dhananjay's Leetcode" height="40px" width="35px" src="https://github.com/dhananjayyaadav/images/blob/master/LeetCode_logo.png" />
-</a>
-<a href="https://www.hackerrank.com/dhananjayyaadav/">
-  <img align="left" alt="Dhananjay's HackerRank" height="46px" width="43px" src="https://www.hackerrank.com/dhananjayyaadav/images/blob/master/HackerRank.png" />
-</a>
-<a href="https://www.codechef.com/users/dhananjayyadav/">
-  <img align="left" alt="Dhananjay's CodeChef" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeChef%20Logo.png" />
-</a>
-<a href="https://codeforces.com/profile/dhananjayyadav/">
-  <img align="left" alt="Dhananjay's CodeForces" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeForces%20Logo.png" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/dhananjayyaadav/practice/">
-  <img align="left" alt="Dhananjay's GeeksforGeeks" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/GeeksforGeeks%20logo.png" />
-</a>
-</div>
-
-<div>
-<a href="https://leetcode.com/dhananjayyaadav/">
-  <img align="left" alt="Dhananjay's Leetcode" height="40px" width="35px" src="https://github.com/dhananjayyaadav/images/blob/master/LeetCode_logo.png" />
+  <img align="left" alt="Dhananjay's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
 </a>
 <a href="https://www.hackerrank.com/dhananjayyaadav/">
   <img align="left" alt="Dhananjay's HackerRank" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.png" />
 </a>
-<a href="https://www.codechef.com/users/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
+<a href="https://www.codechef.com/users/dhananjayyadav/">
+  <img align="left" alt="Dhananjay's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
 </a>
-<a href="https://codeforces.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.png" />
+<a href="https://codeforces.com/profile/dhananjayyaadav/">
+  <img align="left" alt="Dhananjay's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.png" />
 </a>
-<a href="https://app.codesignal.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
+<a href="https://app.codesignal.com/profile/dhananjayyaadav/">
+  <img align="left" alt="Dhananjay's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/sagnikghoshcr7/practice/">
-  <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
+<a href="https://auth.geeksforgeeks.org/user/dhananjay_yaadav/practice/">
+  <img align="left" alt="Dhananjay's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
 </a>
 </div>
 <br />
