@@ -33,22 +33,19 @@
 </div>
 
 <!-- <div>
-  <img align="right" alt="GIF" height="300px" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
+  <img align="right" alt="GIF" height="300px" src="https://github.com/dhananjayyaadav/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
 </div> -->
 
-<!-- <div>
-[<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
-</div> -->
 
 <br />
 <br />
 <br />
 
 <div>
-<a href="https://leetcode.com/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/DhananjayYaadav/images/blob/master/LeetCode_logo.png" />
+<a href="https://leetcode.com/dhananjayyaadav/">
+  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/dhananjayyaadav/images/blob/master/LeetCode_logo.png" />
 </a>
-<a href="https://www.hackerrank.com/sagnikghoshmand1/">
+<a href="https://www.hackerrank.com/dhananjayyaadav?hr_r=1/">
   <img align="left" alt="Sagnik's HackerRank" height="46px" width="43px" src="https://www.hackerrank.com/dhananjayyaadav?hr_r=1/images/blob/master/HackerRank.png" />
 </a>
 <a href="https://www.codechef.com/users/dhananjayyadav/">
@@ -56,9 +53,6 @@
 </a>
 <a href="https://codeforces.com/profile/sagnikghoshcr7/">
   <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeForces%20Logo.png" />
-</a>
-<a href="https://app.codesignal.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/codesignal_logo.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/dhananjayyaadav/practice/">
   <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/GeeksforGeeks%20logo.png" />
