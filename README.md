@@ -19,8 +19,6 @@
   <a href="https://twitter.com/dhananjayyaadav">
   <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
 </a>
-  <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
-  </p>
 </div>
 
 <br />
