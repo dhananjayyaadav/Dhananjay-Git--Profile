@@ -1,24 +1,23 @@
 # DhananjayYadav
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/dhananjayyaadav/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Compputer+ScienceStudent;I'm+an+Software Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+AI+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Compputer+Science+Student;I'm+an+Software+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+AI+Learning+Enthusiast"/>
 </div>
 <br />
 <div>
   <p align="middle">
-  <a href="https://www.linkedin.com/in/sagnikghoshcr7">
+  <a href="https://www.linkedin.com/in/dhananjayyaadav">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
-  <a href="mailto:sagnikghoshmandra@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
+  <a href="mailto:ydhananjay2001@gmail.com?subject=Hello%20Dhananjay,%20From%20Github">
   <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/sagnikghoshcr7">
+  <a href="https://www.facebook.com/profile.php?id=100014723257706">
   <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/sagnikghoshcr7">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com/Sagnikghoshcr7">
+  <a href="https://twitter.com/dhananjayyaadav">
   <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
   </a>
   <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
@@ -30,7 +29,7 @@
 
 [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 <div>
-  <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
+  <img align="middle" alt="GIF" src="https://github.com/dhananjayyaadav/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
 </div>
 
 <!-- <div>
@@ -47,28 +46,22 @@
 
 <div>
 <a href="https://leetcode.com/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
+  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/DhananjayYaadav/images/blob/master/LeetCode_logo.png" />
 </a>
 <a href="https://www.hackerrank.com/sagnikghoshmand1/">
-  <img align="left" alt="Sagnik's HackerRank" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.png" />
+  <img align="left" alt="Sagnik's HackerRank" height="46px" width="43px" src="https://www.hackerrank.com/dhananjayyaadav?hr_r=1/images/blob/master/HackerRank.png" />
 </a>
-<a href="https://www.codechef.com/users/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
+<a href="https://www.codechef.com/users/dhananjayyadav/">
+  <img align="left" alt="Dhananjay's CodeChef" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeChef%20Logo.png" />
 </a>
 <a href="https://codeforces.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.png" />
+  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/CodeForces%20Logo.png" />
 </a>
 <a href="https://app.codesignal.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
+  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/codesignal_logo.png" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/sagnikghoshcr7/practice/">
-  <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
-</a>
-<a href="https://cssbattle.dev/player/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CSSBattle" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CSSBattle.png" />
-</a>
-<a href="https://www.codewars.com/users/sagnikghoshcr7">
-  <img align="left" width="350px" alt="Sagnik's CodeWars" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
+<a href="https://auth.geeksforgeeks.org/user/dhananjayyaadav/practice/">
+  <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/dhananjayyaadav/images/blob/master/GeeksforGeeks%20logo.png" />
 </a>
 </div>
 
